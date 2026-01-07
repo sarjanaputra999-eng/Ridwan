@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Mutaba'ah Qur'an Digital",
+  "description": "A comprehensive monitoring application for Quranic learning programs including Basic, Tahsin, Tilawah, and Tahfidz classes with Admin and Musyrif management roles.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
